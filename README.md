@@ -2,15 +2,15 @@
 
 ### Senior QA Automation Engineer | QA Lead
 
-📍 Екатеринбург, Россия (Remote)
+📍 Ekaterinburg, Russia (Remote)
 
-## О себе
+## About
 
-Senior QA Automation Engineer с более чем 4 годами опыта в тестировании и автоматизации веб-приложений.
-Специализируюсь на построении процессов обеспечения качества с нуля, разработке масштабируемых фреймворков автотестов и интеграции QA-практик в CI/CD.
-Работал как в крупных командах разработки, так и в роли единственного QA-инженера, полностью отвечая за качество продукта: от стратегии тестирования и автоматизации до мониторинга и сопровождения релизов.
+Senior QA Automation Engineer with over 4 years of experience in web application testing and automation.
+I specialize in building quality assurance processes from scratch, developing scalable automated testing frameworks, and integrating QA practices into CI/CD.
+I have worked both in large development teams and as a sole QA engineer, fully responsible for product quality: from testing and automation strategy to release monitoring and support.
 
-## 🚀 Основные компетенции
+## 🚀 Core competencies
 
 ### Test Automation
 * Playwright
